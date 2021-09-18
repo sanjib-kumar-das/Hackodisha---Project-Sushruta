@@ -140,6 +140,33 @@ img {
     background-color: var(--first-color);
 }
 
+/* #scrolldown-button{
+    
+} */
+
+
+/*==== CoviCure ====*/
+
+#covicurebutton{
+
+}
+
+#covicure-button{
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 90px;
+    height: 40px;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+}
+
 
 /*===== LAYOUT =====*/
 
@@ -356,7 +383,6 @@ button {
 button:hover {
     background-color: #1f71ff;
     font-size: 18px;
-    box-shadow: 0 20px 25px rgba(0,0,0, 0.5);
 }
 
 
