@@ -71,8 +71,14 @@
     height: auto;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 html {
     scroll-behavior: smooth;
+    
 }
 
 body {
@@ -83,7 +89,10 @@ body {
     color: var(--text-color);
     line-height: 1.6;
     background-image: linear-gradient (whitesmoke, rgb(201, 251, 253));
+
 }
+
+
 
 h1,
 h2,
@@ -161,12 +170,17 @@ img {
 
 .covicure-para{
     font-size: 20px;
+    text-align: center;
 }
 
 #para-3{
-    position: relative;
     left: 28%;
     font-size: 18px;
+    font-weight:200;
+    
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 #covicure-button{
@@ -186,7 +200,9 @@ img {
     padding-right: 15px;
     border-radius: 5px;
     border: black 5px;
+    cursor: pointer;
 }
+
 
 
 /*===== LAYOUT =====*/
