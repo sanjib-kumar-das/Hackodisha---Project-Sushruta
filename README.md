@@ -289,7 +289,7 @@ The footer section of the page has all the social links, explorer section and ou
 
 ### 🎰 Deploy Project <br><br>
 
-##### You can deploy SUSHRUTA... [Click Here.](https://team-udvaban.github.io/Project-SUSHRUTA)
+##### You can deploy SUSHRUTA... [Click Here.](https://sanjib-kumar-das.github.io/Hackodisha---Project-Sushruta/)
 
 <br>
 
@@ -301,7 +301,7 @@ The footer section of the page has all the social links, explorer section and ou
 
 ##### _Platform:_ ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-To start the video [Click Here.]()
+To start the video [Click Here.](https://www.youtube.com/watch?v=PlTGvQzWJ_8)
 <br>
 
 ---
