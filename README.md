@@ -289,7 +289,7 @@ The footer section of the page has all the social links, explorer section and ou
 
 ### 🎰 Deploy Project <br><br>
 
-##### You can deploy SUSHRUTA... [Click Here.](https://sanjib-kumar-das.github.io/Hackodisha---Project-Sushruta/)
+##### You can deploy SUSHRUTA... [Click Here.](https://sushruta-website.netlify.app/)
 
 <br>
 
